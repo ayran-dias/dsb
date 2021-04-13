@@ -7,6 +7,7 @@
     "@types/blip-sdk": "^7.3.2",
     "axios": "^0.21.1",
     "blip-sdk": "^10.0.0",
+    "lime-js": "^3.0.1",
     "lime-transport-websocket": "^2.0.3"
   }
 }
